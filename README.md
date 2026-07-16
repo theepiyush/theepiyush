@@ -66,11 +66,11 @@
 
 ## 🧠 Tech Stack
 
-- 💻 Java, Python  
+- 💻 Java,C,Spring Boot
 - 🌐 HTML, CSS, Bootstrap  
 - 🛠 Git, GitHub, VS Code  
-- 🗄 MySQL, SQLite  
-- ⚙️ OOPs, Networking  
+- 🗄 MySQL,PostgreSQL  
+- ⚙️ OOPs, Networking,OS  
 
 ---
 
