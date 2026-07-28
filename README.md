@@ -90,5 +90,171 @@ Career Goal:
 | 📧 Email | piyushkrsingh38@gmail.com |
 
 ---
+---
 
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,c,html,css" />
+</p>
+
+### 🚀 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+### 🛠️ Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse,postman" />
+</p>
+
+### 💻 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+</div>
+
+---
+
+# 🧠 Core Skills
+
+<table>
+
+<tr>
+<td width="50%">
+
+### Backend
+
+- Java
+- Spring Boot
+- Spring MVC
+- Hibernate
+- REST APIs
+- JDBC
+
+</td>
+
+<td width="50%">
+
+### Database
+
+- MySQL
+- PostgreSQL
+- SQLite
+- SQL Optimization
+- Database Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Frontend
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+</td>
+
+<td>
+
+### CS Fundamentals
+
+- Data Structures
+- OOP
+- DBMS
+- Operating System
+- Computer Networks
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Experience
+
+## 👨‍💻 Java Developer Intern
+
+### Arena Developers
+
+📅 **July 2026 – Present**
+
+### Responsibilities
+
+- ☕ Building Java Applications
+- 🚀 Learning Spring Boot Development
+- 🎨 Creating Responsive UI
+- 🔗 Working with Git & GitHub
+- 📦 Building Real World Projects
+- 🤝 Collaborating with Team Members
+
+---
+
+# 🏆 Achievements
+
+🏅 Solved **250+ DSA Problems**
+
+🚀 Built **10+ Real World Projects**
+
+☕ Java Backend Developer
+
+💻 Active GitHub Contributor
+
+🌱 Continuously Learning New Technologies
+
+🎯 Focused on Backend Engineering
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| Spring Security | 🟩🟩🟩🟩⬜ 80% |
+| Docker | 🟩🟩🟩⬜⬜ 60% |
+| Microservices | 🟩🟩⬜⬜⬜ 50% |
+| AWS | 🟩⬜⬜⬜⬜ 30% |
+| Kubernetes | 🟩⬜⬜⬜⬜ 20% |
+| System Design | 🟩🟩⬜⬜⬜ 40% |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Spring Boot
+- ✅ Build Production REST APIs
+- ✅ Learn Docker
+- ✅ Learn AWS
+- ✅ Learn Microservices
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Contribute to Open Source
+- ✅ Crack SDE Internship & Placement
+
+---
 > **"Code with purpose. Learn continuously. Build software that matters."**
