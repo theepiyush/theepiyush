@@ -736,15 +736,6 @@ System Design
 
 ---
 
-# 💭 Favourite Quote
-
-<div align="center">
-
-### *"Consistency beats intensity. Build. Learn. Improve. Repeat."*
-
-</div>
----
-
 # 📈 Development Roadmap
 
 <div align="center">
