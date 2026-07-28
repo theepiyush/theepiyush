@@ -65,32 +65,27 @@ Become a Software Development Engineer.
 
 <p align="left">
 
-<a href="https://github.com/theepiyush">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/theepiyush" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/the_piyush_s_/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"/>
+<a href="https://www.linkedin.com/in/piyush-kumar-singh-879a74299/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Replace with your LinkedIn -->
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://leetcode.com/u/the_piyush_s_/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<!-- Replace with your Portfolio -->
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://piyush-portfolio-omega-ten.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<!-- Replace with your email -->
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:piyushkrsingh38@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
 
 # 🛠 Tech Stack
 
