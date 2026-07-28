@@ -106,5 +106,215 @@ Software Development Engineer
 
 ✔ AWS
 ```
+# ⚡ Tech Stack
 
+<table>
+
+<tr>
+
+<td align="center" width="22%">
+
+<img src="https://skillicons.dev/icons?i=java" width="70"/>
+
+### Java
+
+Backend Development
+
+</td>
+
+<td width="4%"></td>
+
+<td align="center" width="22%">
+
+<img src="https://skillicons.dev/icons?i=spring" width="70"/>
+
+### Spring Boot
+
+REST APIs
+
+</td>
+
+<td width="4%"></td>
+
+<td align="center" width="22%">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+
+### MySQL
+
+Database
+
+</td>
+
+<td width="4%"></td>
+
+<td align="center" width="22%">
+
+<img src="https://skillicons.dev/icons?i=docker" width="70"/>
+
+### Docker
+
+Containers
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7" height="45"></td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="70"/>
+
+### Git
+
+Version Control
+
+</td>
+
+<td></td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
+
+### GitHub
+
+Repositories
+
+</td>
+
+<td></td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postman" width="70"/>
+
+### Postman
+
+API Testing
+
+</td>
+
+<td></td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=idea" width="70"/>
+
+### IntelliJ
+
+IDE
+
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7" height="45"></td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html" width="70"/>
+
+### HTML5
+
+Markup
+
+</td>
+
+<td></td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=css" width="70"/>
+
+### CSS3
+
+Styling
+
+</td>
+
+<td></td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=js" width="70"/>
+
+### JavaScript
+
+Frontend
+
+</td>
+
+<td></td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+
+### VS Code
+
+Development
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Experience
+
+## 👨‍💻 Java Developer Intern
+
+### Arena Developers
+
+📅 **July 2026 – Present**
+
+### Responsibilities
+
+- ☕ Java Development
+- 🚀 Spring Boot Learning
+- 🎨 Responsive UI Development
+- 🔗 Git & GitHub Collaboration
+- 📦 Real World Project Development
+
+---
+
+# 🏆 Highlights
+
+🏅 250+ DSA Problems Solved
+
+🚀 10+ Projects Developed
+
+☕ Java Backend Developer
+
+📚 Active Learner
+
+💻 Open Source Enthusiast
+
+🎯 Preparing for SDE Roles
+
+---
+
+# 📚 Learning
+
+| Technology | Status |
+|------------|--------|
+| Spring Security | 🟢 Learning |
+| Docker | 🟢 Learning |
+| Microservices | 🟡 Exploring |
+| AWS | 🟡 Exploring |
+| System Design | 🟢 Learning |
+
+---
 ---
