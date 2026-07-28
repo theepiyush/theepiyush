@@ -626,8 +626,8 @@ System Design
 
 ### 💻 Coding
 
-- 🎯 500+ LeetCode Problems
-- 🎯 20+ Projects
+- 🎯 300+ LeetCode Problems
+- 🎯 10+ Projects
 - 🎯 Open Source Contributions
 - 🎯 Backend Specialization
 - 🎯 Clean Architecture
@@ -666,7 +666,6 @@ System Design
 
 </div>
 
----
 ---
 
 # 🌟 Coding Profiles
