@@ -667,7 +667,113 @@ System Design
 </div>
 
 ---
+---
 
+# 🌟 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/the_piyush_s_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/theepiyush">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/piyush-kumar-singh-879a74299/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://piyush-portfolio-omega-ten.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏅 Cisco Networking Academy
+
+- Introduction to Networks
+- Networking Fundamentals
+
+</td>
+
+<td width="50%">
+
+## ☕
+
+### Java Development
+
+- Core Java
+- Object Oriented Programming
+- JDBC
+- Spring Boot (Learning)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📂 Repository Highlights
+
+| Repository | Description |
+|------------|-------------|
+| 🌐 Portfolio | Personal Portfolio Website |
+| 📋 Task Manager | JavaScript Task Manager |
+| 📇 Smart Contact Manager | Spring Boot Contact Manager |
+| 💬 Java Socket Chat | Desktop Chat Application |
+| 🧠 LeetCode Solutions | DSA Problems in Java |
+
+---
+
+# 📄 Resume
+
+<div align="center">
+
+> **Replace this link with your Google Drive Resume URL**
+
+<a href="YOUR_RESUME_LINK">
+
+<img src="https://img.shields.io/badge/📄 Download Resume-D14836?style=for-the-badge"/>
+
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=theepiyush&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💭 Favourite Quote
+
+<div align="center">
+
+### *"Consistency beats intensity. Build. Learn. Improve. Repeat."*
+
+</div>
+
+---
 <div align="center">
 
 ## 💙 Thanks for visiting my profile!
