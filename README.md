@@ -540,3 +540,141 @@ Collection of Data Structures & Algorithms solutions in Java.
 
 ---
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=theepiyush&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=theepiyush&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Developer Journey
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## ☕
+
+### Java
+
+Building scalable backend applications using modern Java and Spring Boot.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🚀
+
+### Backend
+
+REST APIs • Authentication • Database Design • Security
+
+</td>
+
+<td width="33%" align="center">
+
+## 📚
+
+### Learning
+
+Docker
+
+AWS
+
+Microservices
+
+System Design
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Career
+
+- ✅ Software Development Engineer
+- ✅ Spring Boot Expert
+- ✅ Microservices
+- ✅ AWS
+- ✅ Docker
+- ✅ Kubernetes
+
+</td>
+
+<td width="50%">
+
+### 💻 Coding
+
+- 🎯 500+ LeetCode Problems
+- 🎯 20+ Projects
+- 🎯 Open Source Contributions
+- 🎯 Backend Specialization
+- 🎯 Clean Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/theepiyush">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/piyush-kumar-singh-879a74299/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/the_piyush_s_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://piyush-portfolio-omega-ten.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:piyushkrsingh38@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+*"Building software that makes a difference, one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer"/>
+
+</div>
+---
