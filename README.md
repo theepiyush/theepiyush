@@ -1,56 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=250&section=header&text=Piyush%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20•%20Spring%20Boot%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,40:2563EB,100:06B6D4&text=Piyush%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 # 👋 Hi, I'm Piyush Kumar Singh
 
-### 🚀 Java Backend Developer • Spring Boot • REST APIs • MySQL
+### Java Backend Developer • Spring Boot • REST APIs • MySQL
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Production+Ready+Applications;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Things"/>
+<p>
+Building scalable backend applications with Java and Spring Boot.
+Passionate about writing clean code and solving real-world problems.
+</p>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=3B82F6&center=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Things"/>
 
----
-
-# 💫 About Me
-
-<table>
-
-<tr>
-
-<td width="60%">
-
-### 👨‍💻 Developer Profile
-
-🎓 **B.Tech Computer Science Engineering**
-
-💼 **Java Developer Intern @ Arena Developers**
-
-📍 **India**
-
-💙 Passionate about building scalable backend systems using Java & Spring Boot.
-
-🌱 Currently exploring Docker, Microservices, AWS and System Design.
-
-🎯 Aspiring Software Development Engineer focused on writing clean, maintainable and production-ready code.
-
-</td>
-
-<td align="center">
-
-<img width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌐 Connect
-
-<p align="center">
+<br>
 
 <a href="https://github.com/theepiyush">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -72,97 +35,49 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Tech Stack
+# 💫 About Me
 
 <table>
 
 <tr>
 
-<td align="center" width="25%">
+<td width="65%">
 
-<img width="70" src="https://skillicons.dev/icons?i=java"/>
+### 👨‍💻 Developer
 
-### Java
+🎓 B.Tech Computer Science Engineering
 
-Backend Development
+🏢 Java Developer Intern @ Arena Developers
 
-</td>
+📍 India
 
-<td align="center" width="25%">
+💙 Passionate about Backend Development
 
-<img width="70" src="https://skillicons.dev/icons?i=spring"/>
+🌱 Currently Learning
 
-### Spring Boot
+• Spring Security
 
-REST APIs
+• Docker
 
-</td>
+• Microservices
 
-<td align="center" width="25%">
+• AWS
 
-<img width="70" src="https://skillicons.dev/icons?i=mysql"/>
+• System Design
 
-### MySQL
+🎯 Goal
 
-Database
-
-</td>
-
-<td align="center" width="25%">
-
-<img width="70" src="https://skillicons.dev/icons?i=docker"/>
-
-### Docker
-
-Containerization
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img width="70" src="https://skillicons.dev/icons?i=git"/>
-
-### Git
-
-Version Control
+Software Development Engineer
 
 </td>
 
 <td align="center">
 
-<img width="70" src="https://skillicons.dev/icons?i=github"/>
-
-### GitHub
-
-Projects
-
-</td>
-
-<td align="center">
-
-<img width="70" src="https://skillicons.dev/icons?i=postman"/>
-
-### Postman
-
-API Testing
-
-</td>
-
-<td align="center">
-
-<img width="70" src="https://skillicons.dev/icons?i=vscode"/>
-
-### VS Code
-
-Development
+<img width="220" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 
 </td>
 
@@ -193,37 +108,3 @@ Development
 ```
 
 ---
-
-# 💼 Experience
-
-## 👨‍💻 Java Developer Intern
-
-**Arena Developers**
-
-📅 **July 2026 – Present**
-
-- ☕ Java Application Development
-- 🌐 Responsive Web Development
-- 🚀 Spring Boot Learning
-- 🔗 Git & GitHub Collaboration
-- 📦 Real World Project Development
-
----
-
-# 🏆 Highlights
-
-🏅 250+ DSA Problems Solved
-
-🚀 10+ Projects Developed
-
-☕ Java Backend Developer
-
-📚 Continuous Learner
-
-💻 Open Source Enthusiast
-
-🎯 Preparing for SDE Roles
-
----
-
-> **"Consistency in learning and building is what turns ideas into impactful software."**
