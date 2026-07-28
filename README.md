@@ -319,3 +319,224 @@ Development
 
 ---
 ---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Portfolio Website
+
+Modern responsive developer portfolio showcasing projects, skills and experience.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+<br><br>
+
+**Highlights**
+
+- Responsive Design
+- Smooth UI
+- Project Showcase
+- Contact Form
+
+<br>
+
+<a href="https://piyush-portfolio-omega-ten.vercel.app/">
+<img src="https://img.shields.io/badge/🌍 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/theepiyush/Piyush_Portfolio">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📋 Interactive Task Manager
+
+Task management application with search, filters and dark mode.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+<br><br>
+
+**Highlights**
+
+- CRUD Operations
+- Local Storage
+- Dark Theme
+- Responsive UI
+
+<br>
+
+<a href="YOUR_TASK_MANAGER_LINK">
+<img src="https://img.shields.io/badge/🌍 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/theepiyush/Task-Manager">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td height="35"></td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📇 Smart Contact Manager
+
+Backend application for managing contacts securely using Spring Boot.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
+
+<br><br>
+
+**Highlights**
+
+- Authentication
+- CRUD Operations
+- Spring Security
+- MySQL Database
+
+<br>
+
+<a href="YOUR_CONTACT_MANAGER_LINK">
+<img src="https://img.shields.io/badge/🌍 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/theepiyush/SmartContactManager_SQLite">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Placement Copilot
+
+AI-powered placement preparation platform for students.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
+
+<br><br>
+
+**Highlights**
+
+- AI Resume Analysis
+- Interview Questions
+- Career Roadmap
+- Student Dashboard
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/🚧%20In%20Development-555?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Private-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td height="35"></td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💬 Java Socket Chat
+
+Desktop chat application built using Java Socket Programming.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<br><br>
+
+**Highlights**
+
+- Multi Client Chat
+- Java Swing
+- Socket Programming
+- Real-time Communication
+
+<br>
+
+<a href="https://github.com/theepiyush/Java-Socket-Chat-Application">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 LeetCode Solutions
+
+Collection of Data Structures & Algorithms solutions in Java.
+
+**Topics**
+
+- Arrays
+- Binary Search
+- Trees
+- Graphs
+- Dynamic Programming
+
+<br>
+
+<a href="https://leetcode.com/u/the_piyush_s_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/theepiyush/Leetcode-Solved-Question">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌍 Live Projects
+
+| Project | Live Demo | Repository |
+|---------|-----------|------------|
+| 🌐 Portfolio | ✅ Available | [Repository](https://github.com/theepiyush/Piyush_Portfolio) |
+| 📋 Task Manager | ✅ Available | [Repository](https://github.com/theepiyush/Task-Manager) |
+| 📇 Smart Contact Manager | 🚧 Coming Soon | [Repository](https://github.com/theepiyush/SmartContactManager_SQLite) |
+| 🤖 Placement Copilot | 🚧 In Development | Private |
+
+---
+---
