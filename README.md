@@ -771,7 +771,169 @@ System Design
 ### *"Consistency beats intensity. Build. Learn. Improve. Repeat."*
 
 </div>
+---
 
+# 📈 Development Roadmap
+
+<div align="center">
+
+| 2026 Roadmap | Status |
+|--------------|:------:|
+| ☕ Java | ✅ |
+| 🌱 Spring Boot | ✅ |
+| 🔐 Spring Security | 🟡 |
+| 🐳 Docker | 🟡 |
+| ☁ AWS | 🟡 |
+| ⚙ Microservices | 🟡 |
+| 🚀 Kubernetes | 🔵 |
+| 🏗 System Design | 🟡 |
+| 🤖 AI Integration | 🟡 |
+
+</div>
+
+---
+
+# 💻 Developer Dashboard
+
+```text
+👨‍💻 Name          : Piyush Kumar Singh
+
+☕ Role           : Java Backend Developer
+
+🏢 Company        : Arena Developers
+
+🎓 Education      : B.Tech CSE
+
+📍 Country        : India
+
+💼 Looking For    : Software Development Engineer
+
+🌱 Learning       : Spring Security • Docker • AWS
+
+🔥 Favourite Tech : Java + Spring Boot
+
+⚡ Fun Fact       : I love building backend applications.
+```
+
+---
+
+# 📌 Open Source Goals
+
+- 🚀 Contribute to Java Open Source Projects
+
+- 💻 Build reusable Spring Boot libraries
+
+- 🌎 Collaborate with developers worldwide
+
+- 📚 Help beginners through GitHub
+
+---
+
+# 📚 What I'm Working On
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Placement Copilot
+
+AI Based Placement Preparation Platform
+
+**Status**
+
+🟢 Active Development
+
+</td>
+
+<td width="50%">
+
+### 📇 Smart Contact Manager
+
+Spring Boot Contact Management System
+
+**Status**
+
+🟢 Improving Features
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📋 Interactive Task Manager
+
+Responsive JavaScript Application
+
+**Status**
+
+✅ Completed
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal Developer Portfolio
+
+**Status**
+
+✅ Live
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌎 Current Workspace
+
+```text
+💻 IntelliJ IDEA
+
+⚙ VS Code
+
+🗄 MySQL
+
+🐳 Docker
+
+🔗 GitHub
+
+📬 Postman
+
+☕ Java 21
+
+🍃 Spring Boot 3
+```
+
+---
+
+# ❤️ Support My Work
+
+If you like my repositories
+
+⭐ Star them
+
+🍴 Fork them
+
+🤝 Contribute
+
+---
+
+<div align="center">
+
+# Thanks for visiting ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
+
+</div>
 ---
 <div align="center">
 
