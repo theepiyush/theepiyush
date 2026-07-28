@@ -929,19 +929,9 @@ If you like my repositories
 
 <div align="center">
 
-# Thanks for visiting ❤️
+# Thanks for visiting my profile! ❤️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
-
-</div>
----
-<div align="center">
-
-## 💙 Thanks for visiting my profile!
-
-*"Building software that makes a difference, one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer"/>
 
 </div>
 ---
