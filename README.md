@@ -640,34 +640,6 @@ System Design
 
 ---
 
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/theepiyush">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/piyush-kumar-singh-879a74299/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/the_piyush_s_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://piyush-portfolio-omega-ten.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:piyushkrsingh38@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
 # 🌟 Coding Profiles
 
 <div align="center">
