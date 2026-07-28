@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Piyush Kumar Singh
 
-### Full Stack Java Developer • Spring Boot •
+### Full Stack Java Developer • Spring Boot • REST APIs • MySQL
 
 <p>
 Building scalable backend applications with Java and Spring Boot.
