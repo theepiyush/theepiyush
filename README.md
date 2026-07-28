@@ -292,11 +292,11 @@ Development
 
 # 🏆 Highlights
 
-🏅 250+ DSA Problems Solved
+🏅 200+ DSA Problems Solved
 
-🚀 10+ Projects Developed
+🚀 3+ Projects Developed
 
-☕ Java Backend Developer
+☕ Java Developer
 
 📚 Active Learner
 
@@ -310,7 +310,8 @@ Development
 
 | Technology | Status |
 |------------|--------|
-| Spring Security | 🟢 Learning |
+| Spring Boot | 🟢 Learning |
+| Thymeleaf | 🟢 Learning |
 | Docker | 🟢 Learning |
 | Microservices | 🟡 Exploring |
 | AWS | 🟡 Exploring |
