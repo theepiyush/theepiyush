@@ -716,7 +716,7 @@ System Design
 
 > **Replace this link with your Google Drive Resume URL**
 
-<a href="YOUR_RESUME_LINK">
+<a href="https://drive.google.com/file/d/1cOj_AxcK4LoeEygyWmV7PuePeQjhYqQu/view?usp=drivesdk">
 
 <img src="https://img.shields.io/badge/📄 Download Resume-D14836?style=for-the-badge"/>
 
