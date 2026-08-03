@@ -378,8 +378,8 @@ Task management application with search, filters and dark mode.
 
 <br>
 
-<a href="YOUR_TASK_MANAGER_LINK">
-<img src="https://task-manager-ecru-two-42.vercel.app/"/>
+<a href="https://task-manager-ecru-two-42.vercel.app/">
+<img src="https://img.shields.io/badge/🌍 Live Demo-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/theepiyush/Task-Manager">
